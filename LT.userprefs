@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{D37D654F-EC5F-FD95-0B7D-ECF89614B74E}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor-firstpass PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scr\Dialog\Dialog.cs">
+    <Files>
+      <File FileName="Assets\Scr\Dialog\Dialog.cs" Line="56" Column="62" />
+      <File FileName="Assets\Scr\NPC\Static\StaticNPC.cs" Line="12" Column="27" />
+      <File FileName="Assets\Scr\DayTime\DayTime.cs" Line="19" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

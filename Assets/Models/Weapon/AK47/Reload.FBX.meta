@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 37363f9b3f307eb42bb1a128abd25807
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AK74
+    100002: bip01
+    100004: bip01_l_finger1
+    100006: bip01_l_finger11
+    100008: bip01_l_finger12
+    100010: bip01_l_finger2
+    100012: bip01_l_finger21
+    100014: bip01_l_finger22
+    100016: bip01_l_finger3
+    100018: bip01_l_finger31
+    100020: bip01_l_finger32
+    100022: bip01_l_finger4
+    100024: bip01_l_finger41
+    100026: bip01_l_finger42
+    100028: bip01_r_finger1
+    100030: bip01_r_finger11
+    100032: bip01_r_finger12
+    100034: bip01_r_finger2
+    100036: bip01_r_finger21
+    100038: bip01_r_finger22
+    100040: bip01_r_finger3
+    100042: bip01_r_finger31
+    100044: bip01_r_finger32
+    100046: bip01_r_finger4
+    100048: bip01_r_finger41
+    100050: bip01_r_finger42
+    100052: body
+    100054: bullets
+    100056: joint6
+    100058: l_clavicle
+    100060: l_finger0
+    100062: l_finger01
+    100064: l_finger02
+    100066: l_forearm
+    100068: l_forearm_twist
+    100070: l_hand
+    100072: l_upperarm
+    100074: lead_gun
+    100076: lock
+    100078: magazin
+    100080: r_clavicle
+    100082: r_finger0
+    100084: r_finger01
+    100086: r_finger02
+    100088: r_forearm
+    100090: r_forearm_twist
+    100092: r_hand
+    100094: r_upperarm
+    100096: //RootNode
+    100098: trigger
+    100100: wpn_body
+    100102: wpn_grenade
+    100104: wpn_launcher
+    100106: wpn_scope
+    100108: wpn_silencer
+    100110: zatvor
+    400000: AK74
+    400002: bip01
+    400004: bip01_l_finger1
+    400006: bip01_l_finger11
+    400008: bip01_l_finger12
+    400010: bip01_l_finger2
+    400012: bip01_l_finger21
+    400014: bip01_l_finger22
+    400016: bip01_l_finger3
+    400018: bip01_l_finger31
+    400020: bip01_l_finger32
+    400022: bip01_l_finger4
+    400024: bip01_l_finger41
+    400026: bip01_l_finger42
+    400028: bip01_r_finger1
+    400030: bip01_r_finger11
+    400032: bip01_r_finger12
+    400034: bip01_r_finger2
+    400036: bip01_r_finger21
+    400038: bip01_r_finger22
+    400040: bip01_r_finger3
+    400042: bip01_r_finger31
+    400044: bip01_r_finger32
+    400046: bip01_r_finger4
+    400048: bip01_r_finger41
+    400050: bip01_r_finger42
+    400052: body
+    400054: bullets
+    400056: joint6
+    400058: l_clavicle
+    400060: l_finger0
+    400062: l_finger01
+    400064: l_finger02
+    400066: l_forearm
+    400068: l_forearm_twist
+    400070: l_hand
+    400072: l_upperarm
+    400074: lead_gun
+    400076: lock
+    400078: magazin
+    400080: r_clavicle
+    400082: r_finger0
+    400084: r_finger01
+    400086: r_finger02
+    400088: r_forearm
+    400090: r_forearm_twist
+    400092: r_hand
+    400094: r_upperarm
+    400096: //RootNode
+    400098: trigger
+    400100: wpn_body
+    400102: wpn_grenade
+    400104: wpn_launcher
+    400106: wpn_scope
+    400108: wpn_silencer
+    400110: zatvor
+    2100000: act_arm_1_S
+    2100002: pso_S
+    2100004: gp25_S
+    2100006: pbs1_S
+    2100008: planka_S
+    2100010: ak74_S
+    4300000: AK74
+    7400000: Reload
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: AK74
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Reload
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 115
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
